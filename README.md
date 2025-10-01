@@ -9,11 +9,6 @@ overall due to the limitations of titanic dataset , after feature engineering an
 - `titanic.ipynb` — Jupyter Notebook with full workflow.
 - `train.csv`, `test.csv` — Dataset (from [Kaggle Titanic competition](https://www.kaggle.com/c/titanic)).
 
-## Setup
-Install dependencies:
-```bash
-pip install -r requirements.txt
-
 ## Models Tried 
 - **Logistic Regression**
 
@@ -28,3 +23,4 @@ pip install -r requirements.txt
 - **Stacking**
 
 - **Voting**
+
